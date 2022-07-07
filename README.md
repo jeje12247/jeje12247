@@ -14,4 +14,5 @@ The meaning of **"The Kim's"** is that things I studied are being recorded here,
 - :mortar_board: Bachelor of Computer Software Science
 - :pencil2: Educational student of Employment Academy (for 5 months)
 -  :swimming_woman: I enjoy swimming, reading books. :book:
+- :bulb: It's fun to develop what I want, and I hope to see the web I made used by the public.
 
