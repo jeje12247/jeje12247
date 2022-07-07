@@ -2,9 +2,8 @@
 
  ### :wave: Hi, there!
 
-I'm HyunJin KIM.   
-
-I'm studying to become a web developer using JAVA.   
+I'm **HyunJin KIM**.  
+I'm studying to become a web developer using JAVA.  
 The meaning of **"The Kim's"** is that things I studied are being recorded here, so I took my last name, meaning that they are mine.
 
 - :computer: Junior Developer
@@ -16,7 +15,7 @@ The meaning of **"The Kim's"** is that things I studied are being recorded here,
 -  :swimming_woman: I enjoy swimming, reading books. :book:
 - :bulb: It's fun to develop what I want, and I hope to see the web I made used by the public.
 
-
+---
 
 ### :robot: Front-End Stack :robot:
 
@@ -40,6 +39,6 @@ The meaning of **"The Kim's"** is that things I studied are being recorded here,
 
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"> 
 
-
+---
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeje12247&show_icons=true&theme=great-gatsby)
