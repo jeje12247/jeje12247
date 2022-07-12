@@ -47,10 +47,4 @@ The meaning of **"The Kim's"** is that things I studied are being recorded here,
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeje12247&layout=compact)](https://github.com/jeje12247/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeje12247&show_icons=true&theme=great-gatsby)
-
-
-
-
-
 <a href="https://github.com/jeje12247">![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeje12247&show_icons=true&theme=great-gatsby)</a>
