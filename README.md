@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=FFCC21&height=300&section=header&text=the%20KIM's&fontColor=800000&fontSize=90)
+
 #  :question: WHO AM I :question:
 
  ### :wave: Hi, there!
@@ -42,5 +44,7 @@ The meaning of **"The Kim's"** is that things I studied are being recorded here,
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"> 
 
 ---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeje12247&layout=compact)](https://github.com/jeje12247/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeje12247&show_icons=true&theme=great-gatsby)
