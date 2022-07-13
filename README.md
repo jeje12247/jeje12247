@@ -14,7 +14,7 @@ The meaning of **"The Kim's"** is that things I studied are being recorded here,
 - :muscle: Passionate / Interesting / Keep Learning
 - :mortar_board: Bachelor of Computer Software Science
 - :pencil2: Educational student of Employment Academy (for 5 months)
-- :mobile_phone_off: I'm interested in Android, too.
+- :robot: I'm interested in Android, too.
 -  :swimming_woman: I enjoy swimming, reading books. :book:
 -  :bulb: Motto : Just do it !
 - :heart: It's fun to develop what I want, and I hope to see the web I made used by the public.
