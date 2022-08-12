@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=FFCC21&height=300&section=header&text=the%20KIM's&fontColor=800000&fontSize=90)
 
-# # 재정비 중... 파일 전체 일시 삭제함
+# # 재정비 중... 파일 전체 일시 삭제 및 수정테스트 중
 
 # :question: WHO AM I :question:
 
